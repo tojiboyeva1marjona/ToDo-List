@@ -1,0 +1,14 @@
+.weather{
+    background: rgb(52, 61, 77, 0.8);
+    margin-top: 22px;
+}
+
+.temp{
+    font-size: 30px;
+    font-weight: 200
+}
+
+.temp0{
+    font-size: 40px;
+    font-weight: 200
+}

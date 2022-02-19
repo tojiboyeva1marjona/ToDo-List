@@ -1,0 +1,32 @@
+#day{
+    text-transform: capitalize;
+}
+
+.text-end{
+    margin-left: 300px;
+}
+
+.text-start{
+    margin-left: 50px;
+}
+
+.sub{
+    font-size: 15px;
+}
+
+.p{
+    font-size: 13px;
+}
+
+.time{
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.country{
+    font-weight: 500;
+}
+
+.city{
+    font-weight: 400;
+}
